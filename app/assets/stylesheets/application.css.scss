@@ -16,8 +16,10 @@
 
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
 
-//Background gradient - gradients provided by https://uigradients.com/
+//Background gradient  gradients provided by https://uigradients.com/
  .navbar, .home-callout {
     background: #56CCF2;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-25, Safari 5.1-6 */
